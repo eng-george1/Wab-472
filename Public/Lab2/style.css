@@ -1,0 +1,25 @@
+div{
+    background-color: rgb(89,86,71);
+    color: white;
+}
+h1,h2,h3{
+    color: #9cf;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div>p>span
+{
+    color: #cc8;
+    font-weight: bold;
+}
+li>a
+{
+    color: sienna;
+}
+li>span{
+   font-family: Arial, Helvetica, sans-serif ;
+   font-size: large;
+}
+#validate
+{
+    text-align: center;
+}
