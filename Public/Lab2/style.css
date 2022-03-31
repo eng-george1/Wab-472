@@ -23,3 +23,24 @@ li>span{
 {
     text-align: center;
 }
+li>a{
+    text-decoration: none;
+    
+}
+li>a:hover{
+    text-decoration: underline;
+}
+p::first-letter{
+   font-size: 150%;
+}
+li>h4{
+    color: #cc8;
+}
+li>p{
+    
+    padding-left: 50px;
+   
+}
+li>p::first-letter{
+    font-size: 100%;
+ }
